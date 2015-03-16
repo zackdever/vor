@@ -3,7 +3,7 @@
 from setuptools import setup
 
 setup(name='vor',
-      version='0.0.1',
+      version='0.0.1.1',
       description='Services for gatheric metrics to send to Graphite',
       maintainer='Ralph Meijer',
       maintainer_email='ralphm@ik.nu',
